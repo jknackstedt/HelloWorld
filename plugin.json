@@ -1,0 +1,8 @@
+{
+  "name"            :"HelloWorld",
+  "desription"      :"My first plugin",
+  "namespace"       :"HelloWorld",
+  "author"          :"Jan Knackstedt",
+  "type"            :"template",
+  "serviceProvider" :"HelloWorld\\Providers\\HelloWorldServiceProvider"
+}
